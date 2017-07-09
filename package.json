@@ -1,0 +1,22 @@
+{
+  "name": "servidor-control-biblioteca",
+  "version": "1.0.0",
+  "description": "Servidor para el control de la biblioteca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge-gs/servidor-control-biblioteca.git"
+  },
+  "author": "Jorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorge-gs/servidor-control-biblioteca/issues"
+  },
+  "homepage": "https://github.com/jorge-gs/servidor-control-biblioteca#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
